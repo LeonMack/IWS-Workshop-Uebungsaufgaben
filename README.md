@@ -1,2 +1,2 @@
 # IWS-Workshop - Übungsaufgaben
-## Beschreibung [WIP]
+## Beschreibung (WIP)
