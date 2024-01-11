@@ -53,5 +53,44 @@ Tabelle: Shipping
 |     3      |   Delivered |  3  | 
 |     4      |    Pending  |  5  | 
 |     5      |   Delivered |  1  | 
+
+Wichtig ist hierbei, dass der Status aus Tabelle 2 je nach Kunde korrekt sortiert ist.
 ### Schritt 4
+
+Die folgenden Regeln müssen zur Erstellung der Lösung zusätzlich bedacht werden:
+
+1. Sie müssen für die Erstellung der Lösung ein KI-Tool verwenden!
+
+2. Sie haben insgesamt 15 Minuten Zeit, um eine erste Version des Programms zu erstellen. Sie dürfen für die Erstellung der Lösung maximal 25 Wörter verwenden, welche Sie in das Textfeld des KI-Tools eingeben. Falls sie Fragen an das KI-Tool haben, dürfen sie pro Frage maximal 15 Wörter verwenden. 
+
+3. Sie haben erneut 20 Minuten Zeit, um eine zweite Version der Lösung zu erstellen oder zu verbessern. Diesmal können Sie so viele Wörter verwenden, wie Sie möchten. Sowohl für die Erstellung der Lösung, als auch für Fragen an das KI-Tool.
+
+4. Geben Sie die Ergebnistabelle in beliebiger Reihenfolge zurück. Sie können die Namen der Spalten nach Belieben ändern.
+
+### Schritt 5
+
+Die Gruppen werden von den Workshop-Veranstaltern darüber informiert, wenn die Zeit vorbei ist. Teilen Sie ihre Gedanken 
+zur Aufgabe im Anschluss in einer Diskussionsrunde den anderen Gruppen mit folgenden Ansprechpunkten:
+
+* Hat das Erstellen der Software in beiden Iterationen funktioniert?
+* Welche Herausforderungen/Probleme gab es? 
+* Haben Sie die Lösungen des KI-Tools verstanden?
+
+## Abhängigkeiten
+
+Sie benötigen für die Inhalte der Tabellen eine Datenbank. Dies ist einfach über einen Online Editor 
+(SQL, PostgreSQL, Oracle, etc.) möglich.
+
+Wir empfehlen für diese Aufgabe: https://www.programiz.com/sql/online-compiler/ , welches die richtigen Tabellennamen und Typen bereits verfügbar hält. 
+
+## Sonstiges
+
+* Personen pro Gruppe: 3-4 Personen
+* Zeit für diese Aufgabe: 40 Minuten
+
+
+
+
+
+
 
