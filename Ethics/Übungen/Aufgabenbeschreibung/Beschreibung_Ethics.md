@@ -20,10 +20,10 @@ Finden Sie sich in einer Gruppe zusammen. Die Gruppengröße ist am Ende dieses 
 ### Schritt 2
 
 Suchen Sie sich ein KI-Chatbot Ihrer Wahl aus. Wir empfehlen:
-ChatGPT: https://chat.openai.com/
-Perplexity AI: https://www.perplexity.ai/
-GPTGo: https://gptgo.ai/en#google_vignette
-zzzcode.ai: https://zzzcode.ai
+* ChatGPT: https://chat.openai.com/
+* Perplexity AI: https://www.perplexity.ai/
+* GPTGo: https://gptgo.ai/en#google_vignette
+* zzzcode.ai: https://zzzcode.ai
 
 Suchen Sie sich einen Online Editor für Datenbanken aus. Wir empfehlen:
 
