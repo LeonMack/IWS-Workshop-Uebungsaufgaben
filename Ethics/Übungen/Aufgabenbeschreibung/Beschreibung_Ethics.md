@@ -36,5 +36,14 @@ Tabelle sollte die folgenden Spalten beinhalten: first_name, last_name, age und 
 
 Tabelle: Customer
 
+| customer_id | first_name | last_name | age |
+| ---------- | ----------- | --------- | --- |
+|     1      |     John    |    Doe    |  31 |
+|     2      |     Robert  |    Luna   |  22 |
+|     3      |     David   |  Robinson |  22 |
+|     4      |     John    | Reinhardt |  25 |
+|     5      |     Betty   |    Doe    |  28 |
+
+
 ### Schritt 4
 
