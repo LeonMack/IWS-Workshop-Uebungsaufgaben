@@ -44,6 +44,14 @@ Tabelle: Customer
 |     4      |     John    | Reinhardt |  25 |
 |     5      |     Betty   |    Doe    |  28 |
 
+Tabelle: Shipping
 
+| shipping_id |   Status   | customer  |
+| ---------- | ----------- | --------- |
+|     1      |    Pending  |  2  | 
+|     2      |    Pending  |  4  |
+|     3      |   Delivered |  3  | 
+|     4      |    Pending  |  5  | 
+|     5      |   Delivered |  1  | 
 ### Schritt 4
 
