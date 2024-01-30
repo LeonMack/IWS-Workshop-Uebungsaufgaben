@@ -41,11 +41,11 @@ Recherchiert die gefundenen Sicherheitslücken auf möglichen Auswirkungen.
 
 Von den Workshop-Veranstaltern wird nach der angegebenen Zeit zum bearbeiten dieser Aufgabe eine Diskussionsrunde eingeleitet, an welchem ihr teilnehmen sollt. Schildert den anderen Gruppen kurz eure Erfahrung zu dieser Aufgabe und versucht dabei, auf folgende Aspekte zu achten:
 
-* Haben Sie selber den Source-Code verstanden? War weitere Hilfe durch das KI-Tool benötigt?
+* Habet ihr selbst den vorgeschlagenen Source-Code vom Chatbot verstanden? War weitere Hilfe durch den Chatbot notwendig?
 * Waren die Lösungsvorschläge des Tools verständlich, hilfreich und korrekt?
-* Hätten Sie diese Aufgabe ohne Nutzung eines KI-Tools absolvieren können?
+* Hättet ihr diese Aufgabe ohne Nutzung eines Chatbots absolvieren können?
 * Welche potenziellen Auswirkungen hätten die Sicherheitslücken?
-* Würden Sie schätzen, dass das Nutzen eines KI-Tools einen höheren Lerneffekt hat, als herkömmliche Lernmethoden? 
+* Würdet ihr sagen, dass das Nutzen eines Chatbots einen höheren Lerneffekt hat, als Programmieren ohne dieses Tool? 
 
 
 
