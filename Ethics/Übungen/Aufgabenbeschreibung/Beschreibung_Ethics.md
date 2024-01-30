@@ -1,4 +1,4 @@
-# Einleitung Ethics
+# Einleitung Aufgabe: Ethics
 
 Die Entwicklung von KI in moderner Zeit ist faszinierend. Viele Menschen sehen die Technologie als Zukunft an, die später nicht mehr wegdenkbar ist. Je fortgeschrittener die Technologie ist, desto mehr sorgt diese jedoch auch für Sorgen. Eine große Herausforderung sind neue Richtlinien und Regeln für die Verwendung von künstlicher Intelligenz. Diese sind aufgrund der aktuellen Entwicklung noch großteils in einer Grauzone, welche potenzielle Missbräuche begünstigt. 
 
