@@ -1,2 +1,7 @@
 # IWS-Workshop - Übungsaufgaben
-## Beschreibung (WIP)
+
+## Wilkommen
+
+## Ordnerstruktur
+
+## Falls es Fragen gibt...
