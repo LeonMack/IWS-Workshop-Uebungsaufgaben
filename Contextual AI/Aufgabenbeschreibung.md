@@ -11,6 +11,15 @@ Du wirst insgesamt zwei Iterationen durchführen, um ein ausführbares SQL Progr
 In der ersten Iteration ist dir nur eine sehr begrenzte Anzahl an Wörtern erlaubt, die du dem KI-Tool zur Verfügung stellen 
 kannst. In der zweiten Iteration kannst du dann so viele Wörter verwenden, wie du möchtest. 
 
+## Gruppengröße
+
+Personen pro Gruppe zum bearbeiten dieser Aufgabe: 3-4 Personen.
+
+## Zeit
+
+Die Zeit zum bearbeiten dieser Aufgabe beträgt 30 Minuten.
+
+
 ## Aufgabenbeschreibung
 
 ### Schritt 1
@@ -84,6 +93,3 @@ Benötigt wird für die Inhalte der Tabellen eine Datenbank. Dies ist einfach ü
 Wir empfehlen für diese Aufgabe: https://www.programiz.com/sql/online-compiler/ , welches die richtigen Tabellennamen und Typen bereits verfügbar hält. 
 
 ## Sonstiges
-
-* Personen pro Gruppe: 3-4 Personen
-* Zeit für diese Aufgabe: 40 Minuten
