@@ -91,5 +91,3 @@ Benötigt wird für die Inhalte der Tabellen eine Datenbank. Dies ist einfach ü
 (SQL, PostgreSQL, Oracle, etc.) möglich.
 
 Wir empfehlen für diese Aufgabe: https://www.programiz.com/sql/online-compiler/ , welches die richtigen Tabellennamen und Typen bereits verfügbar hält. 
-
-## Sonstiges
