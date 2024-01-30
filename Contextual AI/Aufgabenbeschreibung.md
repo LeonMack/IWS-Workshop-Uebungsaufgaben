@@ -17,7 +17,7 @@ Personen pro Gruppe zum bearbeiten dieser Aufgabe: 3-4 Personen.
 
 ## Zeit
 
-Die Zeit zum bearbeiten dieser Aufgabe beträgt 30 Minuten.
+Die Zeit zum bearbeiten dieser Aufgabe beträgt 40 Minuten.
 
 
 ## Aufgabenbeschreibung
