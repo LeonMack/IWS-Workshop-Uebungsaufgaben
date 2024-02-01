@@ -1,4 +1,4 @@
-# IWS-Workshop - Übungsaufgaben
+# IWS-Workshop - Repository
 
 ## Wilkommen
 
