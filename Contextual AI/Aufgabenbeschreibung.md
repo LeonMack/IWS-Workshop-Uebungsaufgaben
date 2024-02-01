@@ -36,7 +36,7 @@ Sucht euch ein KI-Chatbot euerer Wahl aus. Wir empfehlen:
 
 Sucht euch einen Online Editor für Datenbanken aus. Wir empfehlen:
 
-https://www.programiz.com/sql/online-compiler/ , in welcher die benötiogten Tabellen bereits zur Verfügung stehen
+https://www.programiz.com/sql/online-compiler/ , in welcher die benötigten Tabellen bereits zur Verfügung stehen
 
 ### Schritt 3
 
