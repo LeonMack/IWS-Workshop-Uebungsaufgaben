@@ -25,3 +25,5 @@ Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie vie
    * XSS
 
 ## Falls es Fragen gibt...
+
+Falls ihr Fragen oder Probleme während der Aufgaben habt, wendet euch bitte jederzeit an die Workshop-Veranstalter. Wir stehen gerne zur Verfügung.
