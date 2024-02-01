@@ -27,7 +27,7 @@ Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie vie
  ## Timeline
  Ihr könnt die folgende Abbildung als Orientierung und Übersicht über Zeiten des Workshops nehmen.
 
- ![Timeline](https://raw.githubusercontent.com/LeonMack/IWS-Workshop-Uebungsaufgaben/main/.github/Timeline.png)
+ ![Timeline](https://raw.githubusercontent.com/[LeonMack/IWS-Workshop-Uebungsaufgaben/main/.github/Timeline.png](https://github.com/LeonMack/IWS-Workshop-Uebungsaufgaben/blob/main/Timeline.png))
 
 ## Falls es Fragen gibt...
 
