@@ -16,7 +16,8 @@ Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie vie
    * Debattierrunde_Aufgabe.pdf
 
 * Ethics / Übungen
-   * Aufgabenbeschreibung.md
+   * Aufgabenbeschreibung
+      * Beschreibung_Ethics.md
    * Buffer Overflow
    * Cookie Exposure
    * SQL Injection
