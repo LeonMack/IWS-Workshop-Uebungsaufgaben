@@ -21,9 +21,9 @@ Finde dich in einer Gruppe zusammen.
 ### Schritt 2
 
 Sucht euch ein KI-Chatbot eurer Wahl aus. Wir empfehlen:
-ChatGPT: https://chat.openai.com/
-Perplexity AI: https://www.perplexity.ai/
-GPTGo: https://gptgo.ai/en#google_vignette
+* ChatGPT: https://chat.openai.com/
+* Perplexity AI: https://www.perplexity.ai/
+* GPTGo: https://gptgo.ai/en#google_vignette
 
 Sucht euch innerhalb 8 Minuten **ein** Code-Snippet aus den fünf Übungen aus. Ihr könnt euer Thema auch früher einfach reinrufen. Die gewählten Themen der Gruppen wird an der Tafel festgehalten. Es dürfen Code-Snippets maximal 2. zwei mal insgesamt gewählt werden.
 
