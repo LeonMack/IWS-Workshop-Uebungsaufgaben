@@ -24,7 +24,7 @@ Die Zeit zum bearbeiten dieser Aufgabe beträgt 40 Minuten.
 
 ### Schritt 1
 
-Finde dich in einer Gruppe zusammen. Die Gruppengröße ist am Ende dieses Dokuments angegeben.
+Finde dich in einer Gruppe zusammen.
 
 ### Schritt 2
 
