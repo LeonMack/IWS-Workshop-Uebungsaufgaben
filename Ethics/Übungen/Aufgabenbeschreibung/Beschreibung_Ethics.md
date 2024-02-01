@@ -16,7 +16,7 @@ Die Zeit zum bearbeiten dieser Aufgabe beträgt 25 Minuten.
 
 ### Schritt 1
 
-Finde dich in einer Gruppe zusammen. Die Gruppengröße ist am Ende dieses Dokuments angegeben.
+Finde dich in einer Gruppe zusammen.
 
 ### Schritt 2
 
@@ -25,9 +25,7 @@ ChatGPT: https://chat.openai.com/
 Perplexity AI: https://www.perplexity.ai/
 GPTGo: https://gptgo.ai/en#google_vignette
 
-Sucht euch im Anschluss ein verfügbares Thema auf dem ? Board aus:
-
-Tragt eurer gewähltes Thema ein, sodass andere Gruppen wissen, dass das Thema vergeben ist. Jede Aufgabe auf dem Board hat einen dedizierten Link zum Source-Code.
+Sucht euch innerhalb 8 Minuten **ein** Code-Snippet aus den fünf Übungen aus. Ihr könnt euer Thema auch früher einfach reinrufen. Die gewählten Themen der Gruppen wird an der Tafel festgehalten. Es dürfen Code-Snippets maximal 2. zwei mal insgesamt gewählt werden.
 
 ### Schritt 3
 
