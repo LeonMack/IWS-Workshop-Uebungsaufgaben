@@ -9,29 +9,18 @@ Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie vie
 
 ## Ordnerstruktur
 
-|
-|_____ Contextual AI
-|                 |
-|                 |_____ Aufgabenbeschreibung.md
-|
-|
-|_____ Debattierrunde
-|                 |
-|                 |_____ Debattierrunde_Aufgabe.pdf
-|
-|_____ Übungen
-            |
-            |_____ Aufgabenbeschreibung.md
-            |
-            |_____ Buffer Overflow
-            |
-            |_____ Cookie Exposure
-            |
-            |_____ SQL Injection
-            |
-            |_____ SSRF
-            |
-            |_____ XSS
-	.
+* Contextual AI
+  * Aufgabenbeschreibung.md
+
+* Debattierrunde
+   * Debattierrunde_Aufgabe.pdf
+
+* Ethics / Übungen
+   * Aufgabenbeschreibung.md
+   * Buffer Overflow
+   * Cookie Exposure
+   * SQL Injection
+   * SSRF
+   * XSS
 
 ## Falls es Fragen gibt...
