@@ -23,6 +23,9 @@ Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie vie
    * SQL Injection
    * SSRF
    * XSS
+    
+* Guidelines
+   * Aufgabenbeschreibung.md
  
  ## Timeline
  Ihr könnt die folgende Abbildung als Orientierung und Übersicht über Zeiten des Workshops nehmen.
