@@ -25,11 +25,11 @@ Sucht euch ein KI-Chatbot eurer Wahl aus. Wir empfehlen:
 * Perplexity AI: https://www.perplexity.ai/
 * GPTGo: https://gptgo.ai/en#google_vignette
 
-Sucht euch innerhalb 8 Minuten **ein** Code-Snippet aus den fünf Themenbereichen aus aus ().  Jedes Thema enthält Code-Snippets mit unterschiedlichen Schwachstellen. Ihr könnt euer Thema auch früher einfach reinrufen. Die gewählten Themen der Gruppen wird an der Tafel festgehalten. Es dürfen Code-Snippets maximal 2. zwei mal insgesamt gewählt werden.
+Sucht euch innerhalb 8 Minuten **ein** Code-Snippet aus den fünf Themenbereichen aus aus (https://github.com/LeonMack/IWS-Workshop-Uebungsaufgaben/tree/main/Ethics/Übungen).  Jedes Thema enthält Code-Snippets mit unterschiedlichen Schwachstellen. Ihr könnt euer Thema auch früher einfach reinrufen. Die gewählten Themen der Gruppen wird an der Tafel festgehalten. Code-Snippets dürfen insgesamt maximal zwei mal vergeben werden.
 
 ### Schritt 3
 
-Jedes Code-Snippet der Aufgabe hat Sicherheitslücken. Informiere dich über das Thema falls nötig und identifizieren die Schwachstellen mittels eines ausgewählten KI-Chatbots. 
+Identifiziert die Art der Sicherheitslücken mittels eines ausgewählten KI-Chatbots. 
 
 ### Schritt 4
 
@@ -39,11 +39,11 @@ Recherchiert die gefundenen Sicherheitslücken auf möglichen Auswirkungen.
 
 Von den Workshop-Veranstaltern wird nach der angegebenen Zeit zum bearbeiten dieser Aufgabe eine Diskussionsrunde eingeleitet, an welchem ihr teilnehmen sollt. Schildert den anderen Gruppen kurz eure Erfahrung zu dieser Aufgabe und versucht dabei, auf folgende Aspekte zu achten:
 
-* Habet ihr selbst den vorgeschlagenen Source-Code vom Chatbot verstanden? War weitere Hilfe durch den Chatbot notwendig?
-* Waren die Lösungsvorschläge des Tools verständlich, hilfreich und korrekt?
-* Hättet ihr diese Aufgabe ohne Nutzung eines Chatbots absolvieren können?
+* Konntet ihr die Art der Sicherheitslücke identifizieren? Welche war es? 
+* Waren die Antworten des genutzten Chatbots verständlich, hilfreich und korrekt?
 * Welche potenziellen Auswirkungen hätten die Sicherheitslücken?
-* Würdet ihr sagen, dass das Nutzen eines Chatbots einen höheren Lerneffekt hat, als Programmieren ohne dieses Tool? 
+* Hättet ihr diese Aufgabe ohne Nutzung eines Chatbots absolvieren können?
+* Würdet ihr aus der Aufgabe sagen, dass die Nutzung des Chatbots effektiver und lehrreicher war, als wenn ihr die Sicherheitslücke selbstständig hättet identifizieren müssen?
 
 
 
