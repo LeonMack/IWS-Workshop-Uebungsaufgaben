@@ -21,7 +21,7 @@ Finde dich in einer Gruppe zusammen.
 ### Schritt 2
 
 Sucht euch ein KI-Chatbot eurer Wahl aus. Wir empfehlen:
-* ChatGPT: https://chat.openai.com/
+* ChatGPT: https://chat.openai.com/ (Anmeldung notwendig)
 * Perplexity AI: https://www.perplexity.ai/
 * GPTGo: https://gptgo.ai/en#google_vignette
 * zzzcode.ai: https://zzzcode.ai
