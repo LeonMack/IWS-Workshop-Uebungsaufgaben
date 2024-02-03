@@ -83,7 +83,8 @@ zur Aufgabe im Anschluss in einer Diskussionsrunde den anderen Gruppen mit folge
 
 * Hat das Erstellen der Software in beiden Iterationen funktioniert?
 * Welche Herausforderungen/Probleme gab es? 
-* Haben Sie die Lösungen des KI-Tools verstanden?
+* Hättet ihr diese Aufgabe ohne die Hilfe des KI-Chatbots bewältigen können?
+* Denkt ihr, dass die Nutzung des Chatbots effektiver war, als die eigene Recherche?
 
 ## Abhängigkeiten
 
