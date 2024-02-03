@@ -63,7 +63,7 @@ Tabelle: Shipping
 |     4      |    Pending  |  5  | 
 |     5      |   Delivered |  1  | 
 
-Wichtig ist hierbei, dass der Status aus Tabelle 2 je nach Kunde korrekt sortiert ist.
+Wichtig ist hierbei, dass der Status aus Tabelle 2 dem jeweiligen Kunde aus Tabelle 1 korrekt zugeordnet wird.
 ### Schritt 4
 
 Die folgenden Regeln müssen zur Erstellung der Lösung zusätzlich bedacht werden:
