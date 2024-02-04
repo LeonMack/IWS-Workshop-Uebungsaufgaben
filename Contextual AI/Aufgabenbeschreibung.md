@@ -8,8 +8,8 @@ um eine korrekte und sinnvolle Antwort zu liefern.
 Ist dies nicht der Fall, sind die Antworten meist sehr generell gehalten, 
 enthalten Fehler oder sind für den Nutzer unbrauchbar. Das werdet ihr in dieser Aufgabe ausprobieren. 
 Ihr werdet insgesamt zwei Iterationen durchführen, um ein ausführbares SQL Programm mittels eines KI-Tools zu erstellen. 
-In der ersten Iteration ist dir nur eine sehr begrenzte Anzahl an Wörtern erlaubt, die du dem KI-Tool zur Verfügung stellen 
-kannst. In der zweiten Iteration kannst du dann so viele Wörter verwenden, wie du möchtest. 
+In der ersten Iteration ist euch nur eine sehr begrenzte Anzahl an Wörtern erlaubt, die ihr dem KI-Tool zur Verfügung stellen 
+kannst. In der zweiten Iteration könnt ihr dann so viele Wörter verwenden, wie ihr möchtet. 
 
 ## Gruppengröße
 
@@ -19,12 +19,11 @@ Personen pro Gruppe zum bearbeiten dieser Aufgabe: 3-4 Personen.
 
 Die Zeit zum bearbeiten dieser Aufgabe beträgt 40 Minuten.
 
-
 ## Aufgabenbeschreibung
 
 ### Schritt 1
 
-Finde dich in einer Gruppe zusammen.
+Findet euch in euer Gruppe zusammen.
 
 ### Schritt 2
 
