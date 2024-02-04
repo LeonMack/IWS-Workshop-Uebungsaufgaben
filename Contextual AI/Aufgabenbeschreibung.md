@@ -69,16 +69,17 @@ Die folgenden Regeln müssen zur Erstellung der Lösung zusätzlich bedacht werd
 
 1. Ihr müsst für die Erstellung der Lösung ein KI-Tool verwenden!
 
-2. Ihr habt insgesamt 15 Minuten Zeit, um eine erste Version des Programms zu erstellen. Ihr dürft für die Erstellung der Lösung maximal 25 Wörter verwenden, welche in das Textfeld des KI-Tools eingeben werden kann. Falls ihr Fragen an das KI-Tool habt, dürft ihr pro Frage maximal 15 Wörter verwenden. 
+2. Ihr habt 20 Minuten nach dem starten der Aufgabe Zeit, um eine erste Version des Programms zu erstellen. Ihr dürft für die Erstellung der Lösung maximal 25 Wörter verwenden, welche in das Textfeld des KI-Tools eingeben werden kann. Falls ihr Fragen an das KI-Tool habt, dürft ihr pro Frage maximal 15 Wörter verwenden.
 
-3. Ihr habt erneut 20 Minuten Zeit, um eine zweite Version der Lösung zu erstellen oder zu verbessern. Diesmal könnt ihr so viele Wörter verwenden, wie ihr möchtet. Sowohl für die Erstellung der Lösung, als auch für Fragen an das KI-Tool.
+2.5. Nach der angegebenen Bearbeitungszeit für die erste Iteration des Programms wird euch vom Workshop-Veranstalterteam bescheid gegeben, dass ihr bitte mit der zweiten Iteration weitermachen sollt. Falls ihr nicht fertig geworden seid ist das kein Problem, behaltet eure Gedanken jedoch für Schritt 5 in Erinnerung.
 
-4. Die Ergebnistabelle kann in beliebiger Reihenfolge zurückgegeben werden.
+3. Ihr habt nun 15 Minuten Zeit, um eine zweite Version der Lösung zu erstellen oder zu verbessern. Diesmal könnt ihr so viele Wörter an den Chatbot richten, wie ihr möchtet. Sowohl für die Erstellung der Lösung, als auch für Fragen an das KI-Tool.
+
+3.5 Nach der angegebenen Bearbeitungszeit für die zweite Iteration des Programms wird euch vom Workshop-Veranstalterteam bescheid gegeben, dass ihr bitte mit Schritt 5 weitermachen sollt. Falls ihr nicht fertig geworden seid ist das kein Problem, behaltet eure Gedanken jedoch für Schritt 5 in Erinnerung.
    
 ### Schritt 5
 
-Die Gruppen werden von den Workshop-Veranstaltern darüber informiert, wenn die Zeit vorbei ist. Teilt eure Gedanken 
-zur Aufgabe im Anschluss in einer Diskussionsrunde den anderen Gruppen mit folgenden Ansprechpunkten:
+Teilt eure Gedanken zur Aufgabe in einer Diskussionsrunde den anderen Gruppen mit folgenden Ansprechpunkten:
 
 * Hat das Erstellen der Software in beiden Iterationen funktioniert?
 * Welche Herausforderungen/Probleme gab es? 
