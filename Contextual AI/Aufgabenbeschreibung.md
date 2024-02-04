@@ -6,8 +6,8 @@ benötigten KI-Tools jedoch Kontext. Je größer und komplexer die Herausforderu
 um eine korrekte und sinnvolle Antwort zu liefern.
 
 Ist dies nicht der Fall, sind die Antworten meist sehr generell gehalten, 
-enthalten Fehler oder sind für den Nutzer unbrauchbar. Das wirst du in dieser Aufgabe ausprobieren. 
-Du wirst insgesamt zwei Iterationen durchführen, um ein ausführbares SQL Programm mittels eines KI-Tools zu erstellen. 
+enthalten Fehler oder sind für den Nutzer unbrauchbar. Das werdet ihr in dieser Aufgabe ausprobieren. 
+Ihr werdet insgesamt zwei Iterationen durchführen, um ein ausführbares SQL Programm mittels eines KI-Tools zu erstellen. 
 In der ersten Iteration ist dir nur eine sehr begrenzte Anzahl an Wörtern erlaubt, die du dem KI-Tool zur Verfügung stellen 
 kannst. In der zweiten Iteration kannst du dann so viele Wörter verwenden, wie du möchtest. 
 
