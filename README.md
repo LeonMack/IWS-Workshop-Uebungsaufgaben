@@ -34,4 +34,4 @@ Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie vie
 
 ## Falls es Fragen gibt...
 
-Falls ihr Fragen oder Probleme während der Aufgaben habt, wendet euch bitte jederzeit an uns (Die Workshop-Veranstalter). Wir stehen gerne zur Verfügung.
+Falls ihr Fragen oder Probleme während der Aufgaben habt, wendet euch bitte jederzeit an uns (Die Workshop-Veranstalter). Wir stehen euch gerne zur Verfügung.
