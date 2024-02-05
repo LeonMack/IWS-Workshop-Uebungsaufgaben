@@ -12,7 +12,7 @@ Die Zeit zum bearbeiten dieser Aufgabe beträgt 25 Minuten.
 
 ### Schritt 1
 
-Finde dich in deiner Gruppe zusammen.
+Findet euch in eurer Gruppe zusammen.
 
 ### Schritt 2
 
