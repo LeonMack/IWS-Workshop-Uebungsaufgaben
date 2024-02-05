@@ -4,10 +4,6 @@ Die Entwicklung von KI in moderner Zeit ist faszinierend. Viele Menschen sehen d
 
 In folgender Aufgabe soll damit experimentieren werden, wie künstliche Intelligenz potenzielle Schwachstellen identifizieren und beheben könnte. Dafür werden verschiedene Übungen zur Verfügung gestellt, rund um das Thema Software Schwachstellen.  Es sollen mithilfe von KI-Tools diese Schwachstellen identifizieren werden.
 
-## Gruppengröße
-
-Personen pro Gruppe zum bearbeiten dieser Aufgabe: 2-3 Personen.
-
 ## Zeit
 
 Die Zeit zum bearbeiten dieser Aufgabe beträgt 25 Minuten.
@@ -16,7 +12,7 @@ Die Zeit zum bearbeiten dieser Aufgabe beträgt 25 Minuten.
 
 ### Schritt 1
 
-Finde dich in einer Gruppe zusammen.
+Finde dich in deiner Gruppe zusammen.
 
 ### Schritt 2
 
