@@ -38,6 +38,7 @@ Von den Workshop-Veranstaltern wird nach der angegebenen Zeit zum bearbeiten die
 
 * Konntet ihr die Art der Sicherheitslücke identifizieren? Welche war es? 
 * Waren die Antworten des genutzten Chatbots verständlich, hilfreich und korrekt?
+* Musste Nachrecherche durchgeführt werden, um die Antwort des Chatbots zu verstehen?
 * Welche potenziellen Auswirkungen hätten die Sicherheitslücken?
 * Hättet ihr diese Aufgabe ohne Nutzung eines Chatbots absolvieren können?
 * Würdet ihr aus der Aufgabe sagen, dass die Nutzung des Chatbots effektiver und lehrreicher war, als wenn ihr die Sicherheitslücke selbstständig hättet identifizieren müssen?
