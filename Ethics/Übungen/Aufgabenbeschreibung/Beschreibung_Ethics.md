@@ -22,7 +22,7 @@ Sucht euch ein KI-Chatbot eurer Wahl aus. Wir empfehlen:
 * GPTGo: https://gptgo.ai/en#google_vignette
 * zzzcode.ai: https://zzzcode.ai
 
-Sucht euch innerhalb 5 Minuten **ein** Code-Snippet aus den vier Themenbereichen (Scwachstellen_Thema_...) aus (https://github.com/LeonMack/IWS-Workshop-Uebungsaufgaben/tree/main/Ethics/Übungen).  Jedes Thema enthält Code-Snippets mit unterschiedlichen Schwachstellen. Ihr könnt euer Thema auch früher einfach reinrufen. Bitte teilt dem Workshop-Veranstalterteam euer gewähltes Thema innheralb dieser 5 Minuten mit (Gerne reinrufen), welche im Anschluss an der Tafel festgehalten wird. Code-Snippets dürfen insgesamt maximal zwei mal vergeben werden.
+Sucht euch innerhalb 5 Minuten **ein** Code-Snippet aus den vier Themenbereichen (Scwachstellen_Thema_...) aus (https://github.com/LeonMack/IWS-Workshop-Uebungsaufgaben/tree/main/Ethics/Übungen).  Jedes Thema enthält Code-Snippets mit unterschiedlichen Schwachstellen. Bitte teilt dem Workshop-Veranstalterteam euer gewähltes Thema innheralb dieser 5 Minuten mit (Gerne reinrufen), welche im Anschluss an der Tafel festgehalten wird. Code-Snippets dürfen insgesamt maximal zwei mal vergeben werden.
 
 ### Schritt 3
 
