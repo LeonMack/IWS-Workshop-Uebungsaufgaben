@@ -18,11 +18,10 @@ Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie vie
 * Ethics / Übungen
    * Aufgabenbeschreibung
       * Beschreibung_Ethics.md
-   * Buffer Overflow
-   * Cookie Exposure
-   * SQL Injection
-   * SSRF
-   * XSS
+   * Schwachstellen Thema 1
+   * Schwachstellen Thema 2
+   * Schwachstellen Thema 3
+   * Schwachstellen Thema 4
     
 * Guidelines
    * Aufgabenbeschreibung.md
