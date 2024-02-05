@@ -11,10 +11,6 @@ Ihr werdet insgesamt zwei Iterationen durchführen, um ein ausführbares SQL Pro
 In der ersten Iteration ist euch nur eine sehr begrenzte Anzahl an Wörtern erlaubt, die ihr dem KI-Tool zur Verfügung stellen 
 kannst. In der zweiten Iteration könnt ihr dann so viele Wörter verwenden, wie ihr möchtet. 
 
-## Gruppengröße
-
-Personen pro Gruppe zum bearbeiten dieser Aufgabe: 3-4 Personen.
-
 ## Zeit
 
 Die Zeit zum bearbeiten dieser Aufgabe beträgt 40 Minuten.
