@@ -34,7 +34,7 @@ Identifiziert die Art der Sicherheitslücken mittels eines ausgewählten KI-Chat
 
 ### Schritt 4
 
-Recherchiert die gefundenen Sicherheitslücken auf möglichen Auswirkungen. 
+Recherchiert die gefundenen Sicherheitslücken auf möglichen Auswirkungen (Mit oder ohne Chatbot). 
 
 ### Schritt 5
 
