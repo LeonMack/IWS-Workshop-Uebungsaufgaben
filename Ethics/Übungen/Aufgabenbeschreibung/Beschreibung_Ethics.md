@@ -6,7 +6,7 @@ In folgender Aufgabe soll damit experimentieren werden, wie künstliche Intellig
 
 ## Zeit
 
-Die Zeit zum bearbeiten dieser Aufgabe beträgt 25 Minuten.
+Die Zeit zum bearbeiten dieser Aufgabe beträgt 15 Minuten.
 
 ## Aufgabenbeschreibung
 
