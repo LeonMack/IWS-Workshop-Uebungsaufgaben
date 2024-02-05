@@ -26,11 +26,11 @@ Sucht euch innerhalb 8 Minuten **ein** Code-Snippet aus den vier Themenbereichen
 
 ### Schritt 3
 
-Identifiziert die Art der Sicherheitslücken mittels eines ausgewählten KI-Chatbots. 
+Identifiziert die Art der Sicherheitslücken mittels eines ausgewählten KI-Chatbots und notiert dies. 
 
 ### Schritt 4
 
-Recherchiert die gefundenen Sicherheitslücken auf möglichen Auswirkungen (Mit oder ohne Chatbot). 
+Recherchiert die gefundenen Sicherheitslücken auf möglichen Auswirkungen (Mit oder ohne Chatbot) und notiert dies. 
 
 ### Schritt 5
 
