@@ -36,7 +36,7 @@ https://www.programiz.com/sql/online-compiler/ , in welcher die benötigten Tabe
 ### Schritt 3
 
 Erstellt ein SQL Programm, welches die im Anschluss dargestellten zwei Tabellen zusammenfügt. Die zusammengefügte 
-Tabelle sollte die folgenden Spalten beinhalten: first_name, last_name, age und status.
+Tabelle darf nur die folgenden Spalten mit den entsprechenden Inhalten enthalten: first_name, last_name, age und status.
 
 Tabelle: Customer
 
