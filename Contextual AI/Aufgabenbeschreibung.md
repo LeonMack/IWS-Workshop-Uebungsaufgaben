@@ -13,7 +13,7 @@ kannst. In der zweiten Iteration könnt ihr dann so viele Wörter verwenden, wie
 
 ## Zeit
 
-Die Zeit zum bearbeiten dieser Aufgabe beträgt 40 Minuten.
+Die Zeit zum bearbeiten dieser Aufgabe (Beide Iterationen) beträgt 35 Minuten.
 
 ## Aufgabenbeschreibung
 
