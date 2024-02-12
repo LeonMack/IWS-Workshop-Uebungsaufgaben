@@ -1,4 +1,6 @@
-# Einleitung Guidelines
+# Aufgabe Guidelines
+
+# Einleitung
 
 Die Arbeit mit künstlicher Intelligenz als Werkzeug eröffnet viele spannende Möglichkeiten.
 
@@ -12,13 +14,37 @@ Obwohl die Tools Eingaben in natürlicher Sprache verstehen, kann es dennoch vor
 
 ## Aufgabenstellung
 
-Macht euch in zweier-Gruppen Gedanken dazu, was ihr bei der Auswahl und Integration eines KI-Tools in einem Unternehmen beachten würden und welche Regeln ihr beim Erstellen eines Prompts an eine KI einhalten solltet.
+Diese Aufgabe ist in drei Teile unterteilt, die wir **nacheinander** abarbeiten werden.  
+Bitte bildet selbstständig Zweier-Gruppen und überlegt euch Antworten zu den Fragestellungen aus Teil A und B.
+Bitte erste mit Teil A anfangen, da wir nach der Bearbeitungszeit von 10 Minuten eure Ergebnisse besprechen werden.
+Teil C werden wir in einer großen Runde bearbeiten.
 
-## Zusammenfassung
+### Teil A
 
-- Bildet zweier-Gruppen
-- Notiert euch Regeln dazu …
-  - was ihr bei der Auswahl und Integration eines KI-Tools in ein Unternehmen beachten würden
-  - welche Regeln ihr beim Erstellen eines Prompts an eine KI einhalten würden
-- Ihr habt 20 Minuten Zeit.
-- Die Ergebnisse werden danach in einer großen Runde besprochen
+Bitte überlegt euch Guidelines zu der Fragestellung. Nach der Bearbeitungszeit werden wir es in einer großen Runde besprechen und eventuell fehlende Richtlinien ergänzen.
+
+#### Fragestellung:
+„Was sollte beachtet werde, wenn man ein KI-Tool in ein Softwareunternehmen integrieren will?“
+
+#### Bearbeitungszeit:
+10 Minuten
+
+### Teil B
+Erst anfangen, **nachdem** wir Teil A gemeinsam abgeschlossen haben.  
+Bitte überlegt euch Guidelines zu der Fragestellung. Nach der Bearbeitungszeit werden wir es in einer großen Runde besprechen und eventuell fehlende Richtlinien ergänzen.
+
+#### Fragestellung:
+„Was sollte man beim Erstellen eines Prompts an ein KI-Tool beachten?“
+
+#### Bearbeitungszeit:
+10 Minuten
+
+### Teil C
+
+Diesen Teil machen wir gemeinsam an der Tafel. Wir werden die nachfolgenden Prompts auf Grundlage unserer gefundenen Guidelines verbessern.
+
+#### Prompt 1:
+„Will Essen kochen“
+
+#### Prompt 2:
+„Portfolio Webseite“
