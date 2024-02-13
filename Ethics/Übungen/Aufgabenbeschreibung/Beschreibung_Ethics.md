@@ -34,13 +34,13 @@ Recherchiert die gefundenen Sicherheitslücken auf möglichen Auswirkungen (Mit 
 
 ### Schritt 5
 
-Von den Workshop-Veranstaltern wird nach der angegebenen Zeit zum bearbeiten dieser Aufgabe eine Diskussionsrunde eingeleitet, an welchem ihr teilnehmen sollt. Schildert den anderen Gruppen kurz eure Erfahrung zu dieser Aufgabe und versucht dabei, auf folgende Aspekte zu achten:
+Von den Workshop-Veranstaltern wird nach der angegebenen Zeit zum bearbeiten dieser Aufgabe eine Diskussionsrunde eingeleitet, an welchem ihr teilnehmen sollt. Es wird zuerst nach freiwilligen Gruppen zur Teilnahme an der Diskussionsrunde gefragt, anonsten würde eine zufällige Gruppe aufgerufen werden. In der Diskussionsrunde können folgende Aspekte erfragt werden, versucht demnach auf diese zu achten:
 
 * Konntet ihr die Art der Sicherheitslücke identifizieren? Welche war es? 
-* Waren die Antworten des genutzten Chatbots verständlich, hilfreich und korrekt?
-* Musste Nachrecherche durchgeführt werden, um die Antwort des Chatbots zu verstehen?
+* Waren die Antworten des genutzten KI-Chatbots verständlich, hilfreich und korrekt?
+* Musste Nachrecherche durchgeführt werden, um die Antwort des KI-Chatbots zu verstehen?
 * Welche potenziellen Auswirkungen hätten die Sicherheitslücken?
-* Hättet ihr diese Aufgabe ohne Nutzung eines Chatbots absolvieren können?
+* Hättet ihr diese Aufgabe ohne Nutzung eines KI-Chatbots absolvieren können?
 * Würdet ihr aus der Aufgabe sagen, dass die Nutzung des Chatbots effektiver und lehrreicher war, als wenn ihr die Sicherheitslücke selbstständig hättet identifizieren müssen?
 
 
