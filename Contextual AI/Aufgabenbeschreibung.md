@@ -72,7 +72,7 @@ Die folgenden Regeln müssen zur Erstellung der Lösung zusätzlich bedacht werd
    
 ### Schritt 5
 
-Teilt eure Gedanken zur Aufgabe in einer Diskussionsrunde den anderen Gruppen mit folgenden Ansprechpunkten:
+Von den Workshop-Veranstaltern wird nach der angegebenen Zeit zum bearbeiten dieser Aufgabe eine Diskussionsrunde eingeleitet, an welchem ihr teilnehmen sollt. Es wird zuerst nach freiwilligen Gruppen zur Teilnahme an der Diskussionsrunde gefragt, anonsten würde eine zufällige Gruppe aufgerufen werden. In der Diskussionsrunde können folgende Aspekte erfragt werden, versucht demnach auf diese zu achten:
 
 * Hat das Erstellen der Software in beiden Iterationen funktioniert?
 * Welche Herausforderungen/Probleme gab es? 
