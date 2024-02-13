@@ -8,7 +8,7 @@ jeder aus Ihrer Gruppe mindestens ein eigenes Argument besitzt.
 Anschließend werden wir die Argumente zusammen an der Tafel sammeln.
 
 ## Sammelt Argumente und Standpunkte für die folgende Frage:
-Sollen KI-Werkzeuge in Schulen und Universitäten beim Erlernen der Programmierung
+Sollten KI-Werkzeuge in Schulen und Universitäten beim Erlernen der Programmierung
 aktive vermittelt werden?
 
 
