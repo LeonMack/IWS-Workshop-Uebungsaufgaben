@@ -2,7 +2,7 @@
 
 ## Wilkommen
 
-Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie viele Schleifenarten muss man kennen?". Im folgenden wird die Ordnerstruktur für die zu bearbeitenden Aufgaben aufgelistet, welche für den Workshop relevant sind:
+Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie viele Schleifenarten muss man kennen?"! Im folgenden wird die Ordnerstruktur für die zu bearbeitenden Aufgaben aufgelistet, welche für den Workshop relevant sind:
 
 ## Ordnerstruktur
 
