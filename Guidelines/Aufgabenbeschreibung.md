@@ -24,7 +24,7 @@ Teil C werden wir in einer großen Runde bearbeiten.
 Bitte überlegt euch Guidelines zu der Fragestellung. Nach der Bearbeitungszeit werden wir es in einer großen Runde besprechen und eventuell fehlende Richtlinien ergänzen.
 
 #### Fragestellung:
-„Was sollte beachtet werde, wenn man ein KI-Tool in ein Softwareunternehmen integrieren will?“
+„Was sollte beachtet werden, wenn man ein KI-Tool in ein Softwareunternehmen integrieren will?“
 
 #### Bearbeitungszeit:
 10 Minuten
