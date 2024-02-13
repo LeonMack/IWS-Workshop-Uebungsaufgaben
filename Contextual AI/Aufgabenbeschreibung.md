@@ -79,6 +79,10 @@ Von den Workshop-Veranstaltern wird nach der angegebenen Zeit zum bearbeiten die
 * Hättet ihr diese Aufgabe ohne die Hilfe des KI-Chatbots bewältigen können?
 * Denkt ihr, dass die Nutzung des Chatbots effektiver war, als die eigene Recherche?
 
+### Für die Schnellen
+
+Falls ihr bereits vor der Bearbeitungszeit mit Schritt 1-4 fertig seid, könnt ihr mit unterschiedlichen KI-Chatbots die beiden Iterationen erneut durchgehen und die Ergebnisse vergleichen. Gegen Ende der Diskussionsrunde wird gefragt, ob eine Gruppe weitere KI-Tools für die Erstellung weiterer Programmversionen zum Zusammenfügen der zwei SQL-Tabellen genutzt und Ergänzungen hat.
+
 ## Abhängigkeiten
 
 Benötigt wird für die Inhalte der Tabellen eine Datenbank. Dies ist einfach über einen Online Editor 
