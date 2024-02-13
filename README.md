@@ -14,7 +14,7 @@ Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie vie
 
 * Ethics / Übungen
    * Aufgabenbeschreibung
-      * Beschreibung_Ethics.md
+      * Aufgabenbeschreibung.md
    * Schwachstellen Thema 1
    * Schwachstellen Thema 2
    * Schwachstellen Thema 3
