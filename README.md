@@ -2,10 +2,7 @@
 
 ## Wilkommen
 
-Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie viele Schleifenarten muss man kennen?". Im folgenden sind Unterkapitel aufgelistet, welche für den Workshop relevant sind und euch nützlich sein könnten. 
-
-* Ordnerstruktur: Übersicht zu den Aufgaben, die im Workshop bearbeitet werden
-* Timeline: Eine Zeitlinie des Workshops eingeteilt in Blöcke und Uhrzeiten
+Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie viele Schleifenarten muss man kennen?". Im folgenden wird die Ordnerstruktur für die zu bearbeitenden Aufgaben aufgelistet, welche für den Workshop relevant sind:
 
 ## Ordnerstruktur
 
@@ -25,11 +22,7 @@ Wilkommen auf dem Repository vom IWS-Workshop: "Programmieren 1 oder KI? Wie vie
     
 * Guidelines
    * Aufgabenbeschreibung.md
- 
- ## Timeline
- Ihr könnt die folgende Abbildung als Orientierung und Übersicht über die Zeiten der Workshop-Böcke nehmen.
 
-![Image Description](https://github.com/LeonMack/IWS-Workshop-Uebungsaufgaben/raw/main/.github/Timeline.png)
 
 ## Falls es Fragen gibt...
 
