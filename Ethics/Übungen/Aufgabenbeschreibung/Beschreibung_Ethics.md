@@ -43,6 +43,9 @@ Von den Workshop-Veranstaltern wird nach der angegebenen Zeit zum bearbeiten die
 * Hättet ihr diese Aufgabe ohne Nutzung eines KI-Chatbots absolvieren können?
 * Würdet ihr aus der Aufgabe sagen, dass die Nutzung des Chatbots effektiver und lehrreicher war, als wenn ihr die Sicherheitslücke selbstständig hättet identifizieren müssen?
 
+### Für die Schnellen
+
+Falls ihr bereits vor der Bearbeitungszeit mit Schritt 1-4 fertig seid, könnt ihr euch weitere Code-Snippets aus den Schwachstellen-Themen aussuchen und diese mit unterschiedlichen KI-Chatbots untersuchen. Gegen Ende der Diskussionsrunde wird gefragt, ob eine Gruppe weitere Code-Snippets untersucht hat und ob es weitere Ergänzungen gibt
 
 
 
