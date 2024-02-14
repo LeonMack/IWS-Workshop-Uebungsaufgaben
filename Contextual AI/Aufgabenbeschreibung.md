@@ -9,11 +9,11 @@ Ist dies nicht der Fall, sind die Antworten meist sehr generell gehalten,
 enthalten Fehler oder sind für den Nutzer unbrauchbar. Das werdet ihr in dieser Aufgabe ausprobieren. 
 Ihr werdet insgesamt zwei Iterationen durchführen, um ein ausführbares SQL Programm mittels eines KI-Tools zu erstellen. 
 In der ersten Iteration ist euch nur eine sehr begrenzte Anzahl an Wörtern erlaubt, die ihr dem KI-Tool zur Verfügung stellen 
-kannst. In der zweiten Iteration könnt ihr dann so viele Wörter verwenden, wie ihr möchtet. 
+könnt. In der zweiten Iteration könnt ihr dann so viele Wörter verwenden, wie ihr möchtet. 
 
 ## Zeit
 
-Die Zeit zum bearbeiten dieser Aufgabe (Beide Iterationen) beträgt 35 Minuten.
+Die Zeit zum Bearbeiten dieser Aufgabe (beide Iterationen) beträgt 35 Minuten.
 
 ## Aufgabenbeschreibung
 
@@ -58,21 +58,21 @@ Tabelle: Shipping
 |     4      |    Pending  |  5  | 
 |     5      |   Delivered |  1  | 
 
-Wichtig ist hierbei, dass der Status aus Tabelle 2 dem jeweiligen Kunde aus Tabelle 1 korrekt zugeordnet wird.
+Wichtig ist hierbei, dass der Status aus Tabelle 2 dem jeweiligen Customer aus Tabelle 1 korrekt zugeordnet wird.
 ### Schritt 4
 
 Die folgenden Regeln müssen zur Erstellung der Lösung zusätzlich bedacht werden:
 
 1. Ihr müsst für die Erstellung der Lösung ein KI-Tool verwenden!
 
-2. Ihr habt 20 Minuten nach dem starten der Aufgabe Zeit, um eine erste Version des Programms zu erstellen. Ihr dürft für die Erstellung der Lösung maximal 15 Wörter verwenden (Wörter müssen mit Leerzeichen getrennt werden!), welche in das Textfeld des KI-Tools eingeben werden kann. Falls ihr Fragen an das KI-Tool habt, dürft ihr pro Frage maximal 10 Wörter verwenden. Um das Verfolgen der maximal genutzten Wörter zu vereinfachen, empfehlen wir einen Word Counter: https://wordcounter.net/.
-3. Euch wird kurz vor dem Zeitablauf für die erste Iteration des Programms vom Workshop-Veranstalterteam bescheid gegeben, dass ihr demnächst mit der zweiten Iteration weitermachen sollt. Falls ihr nicht fertig geworden seid ist das kein Problem, behaltet eure Gedanken jedoch für Schritt 5 in Erinnerung.
+2. Ihr habt 20 Minuten nach dem Starten der Aufgabe Zeit, um eine erste Version des Programms zu erstellen. Ihr dürft für die Erstellung der Lösung maximal 15 Wörter verwenden (Wörter müssen mit Leerzeichen getrennt werden!), welche in das Textfeld des KI-Tools eingeben werden kann. Falls ihr Fragen an das KI-Tool habt, dürft ihr pro Frage maximal 10 Wörter verwenden. Um das Verfolgen der maximal genutzten Wörter zu vereinfachen, empfehlen wir einen Word Counter: https://wordcounter.net/.
+3. Euch wird kurz vor dem Zeitablauf für die erste Iteration des Programms vom Workshop-Veranstalterteam Bescheid gegeben, dass ihr demnächst mit der zweiten Iteration weitermachen sollt. Falls ihr nicht fertig geworden seid ist das kein Problem, behaltet eure Gedanken jedoch für Schritt 5 in Erinnerung.
 4. Ihr habt nun 15 Minuten Zeit, um eine zweite Version der Lösung zu erstellen oder zu verbessern. Diesmal könnt ihr so viele Wörter an den Chatbot richten, wie ihr möchtet. Sowohl für die Erstellung der Lösung, als auch für Fragen an das KI-Tool.
-5. Euch wird kurz vor dem Zeitablauf der zweiten Iteration des Programms vom Workshop-Veranstalterteam bescheid gegeben, dass ihr bitte eure Gedanken innheralb von 5 Minuten notiert, die ihr im Anschluss den anderen Gruppen vorstellt (Ihr werdet Gruppe nach Gruppe aufgerufen). Falls ihr nicht fertig geworden seid ist das kein Problem, behaltet eure Gedanken jedoch für Schritt 5 in Erinnerung.
+5. Euch wird kurz vor dem Zeitablauf der zweiten Iteration des Programms vom Workshop-Veranstalterteam Bescheid gegeben, dass ihr bitte eure Gedanken innerhalb von 5 Minuten notiert, die ihr im Anschluss den anderen Gruppen vorstellt (Ihr werdet Gruppe nach Gruppe aufgerufen). Falls ihr nicht fertig geworden seid, ist das kein Problem, behaltet eure Gedanken jedoch für Schritt 5 in Erinnerung.
    
 ### Schritt 5
 
-Von den Workshop-Veranstaltern wird nach der angegebenen Zeit zum bearbeiten dieser Aufgabe eine Diskussionsrunde eingeleitet, an welchem ihr teilnehmen sollt. Es wird zuerst nach freiwilligen Gruppen zur Teilnahme an der Diskussionsrunde gefragt, anonsten würde eine zufällige Gruppe aufgerufen werden. In der Diskussionsrunde können folgende Aspekte erfragt werden, versucht demnach auf diese zu achten:
+Von den Workshop-Veranstaltern wird nach der angegebenen Zeit zum Bearbeiten dieser Aufgabe eine Diskussionsrunde eingeleitet, an welchem ihr teilnehmen sollt. Es wird zuerst nach freiwilligen Gruppen zur Teilnahme an der Diskussionsrunde gefragt, ansonsten würde eine zufällige Gruppe aufgerufen werden. In der Diskussionsrunde können folgende Aspekte erfragt werden, versucht demnach auf diese zu achten:
 
 * Hat das Erstellen der Software in beiden Iterationen funktioniert?
 * Welche Herausforderungen/Probleme gab es? 
